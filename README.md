@@ -53,7 +53,7 @@ Name      | Required | Type           | Default | Description
 `errors`  | no       | Object         | `{}`    | Errors from outside the component. From server etc.
 `isReset` | no       | Boolean        | `false` | Trigger for reset form
 `isFocus` | no       | Boolean        | `false` | Card number field focus when component mounted (available if `isNew` is true)
-`imagesBasePath` | no | String | [default](`https://cdn.jsdelivr.net/gh/avto-dev/bank-card-vue-component@master/public/images/`) | Base path and banks or payment systems logotypes
+`imagesBasePath` | no | String | [default](`https://cdn.jsdelivr.net/gh/shawon3719/bank-card-vue-component@master/public/images/`) | Base path and banks or payment systems logotypes
 
 ## Events
 
@@ -106,7 +106,7 @@ export default {
 ```
 ## Use your own logotypes
 
-By default banks logos provided from CDN: `https://cdn.jsdelivr.net/gh/avto-dev/bank-card-vue-component@%package_version%/public/images/%image_path%`.
+By default banks logos provided from CDN: `https://cdn.jsdelivr.net/gh/shawon3719/bank-card-vue-component@%package_version%/public/images/%image_path%`.
 
 If you want to use your own logotypes you can pass base images path by prop `images-base-path`. For example:
 ```vue
@@ -164,21 +164,21 @@ If you will find any package errors, please, [make an issue][link_create_issue] 
 This is open-sourced software licensed under the [MIT License][link_license].
 
 [badge_npm_version]:https://img.shields.io/npm/v/@shawon3719/vue-bank-card-input.svg?maxAge=180
-[badge_vue_version]:https://img.shields.io/github/package-json/dependency-version/avto-dev/bank-card-vue-component/vue.svg
-[badge_build_status]:https://img.shields.io/github/workflow/status/avto-dev/bank-card-vue-component/tests/master
-[badge_coverage]:https://img.shields.io/codecov/c/github/avto-dev/bank-card-vue-component/master.svg?maxAge=60
-[badge_release_date]:https://img.shields.io/github/release-date/avto-dev/bank-card-vue-component.svg?style=flat-square&maxAge=180
-[badge_commits_since_release]:https://img.shields.io/github/commits-since/avto-dev/bank-card-vue-component/latest.svg?style=flat-square&maxAge=180
-[badge_issues]:https://img.shields.io/github/issues/avto-dev/bank-card-vue-component.svg?style=flat-square&maxAge=180
-[badge_pulls]:https://img.shields.io/github/issues-pr/avto-dev/bank-card-vue-component.svg?style=flat-square&maxAge=180
-[badge_license]:https://img.shields.io/github/license/avto-dev/bank-card-vue-component.svg?longCache=true
-[link_releases]:https://github.com/avto-dev/bank-card-vue-component/releases
-[link_commits]:https://github.com/avto-dev/bank-card-vue-component/commits
-[link_changes_log]:https://github.com/avto-dev/bank-card-vue-component/blob/master/CHANGELOG.md
-[link_issues]:https://github.com/avto-dev/bank-card-vue-component/issues
-[link_pulls]:https://github.com/avto-dev/bank-card-vue-component/pulls
-[link_build_status]:https://travis-ci.org/avto-dev/bank-card-vue-component
-[link_coverage]:https://codecov.io/gh/avto-dev/bank-card-vue-component/
+[badge_vue_version]:https://img.shields.io/github/package-json/dependency-version/shawon3719/bank-card-vue-component/vue.svg
+[badge_build_status]:https://img.shields.io/github/workflow/status/shawon3719/bank-card-vue-component/tests/master
+[badge_coverage]:https://img.shields.io/codecov/c/github/shawon3719/bank-card-vue-component/master.svg?maxAge=60
+[badge_release_date]:https://img.shields.io/github/release-date/shawon3719/bank-card-vue-component.svg?style=flat-square&maxAge=180
+[badge_commits_since_release]:https://img.shields.io/github/commits-since/shawon3719/bank-card-vue-component/latest.svg?style=flat-square&maxAge=180
+[badge_issues]:https://img.shields.io/github/issues/shawon3719/bank-card-vue-component.svg?style=flat-square&maxAge=180
+[badge_pulls]:https://img.shields.io/github/issues-pr/shawon3719/bank-card-vue-component.svg?style=flat-square&maxAge=180
+[badge_license]:https://img.shields.io/github/license/shawon3719/bank-card-vue-component.svg?longCache=true
+[link_releases]:https://github.com/shawon3719/bank-card-vue-component/releases
+[link_commits]:https://github.com/shawon3719/bank-card-vue-component/commits
+[link_changes_log]:https://github.com/shawon3719/bank-card-vue-component/blob/master/CHANGELOG.md
+[link_issues]:https://github.com/shawon3719/bank-card-vue-component/issues
+[link_pulls]:https://github.com/shawon3719/bank-card-vue-component/pulls
+[link_build_status]:https://travis-ci.org/shawon3719/bank-card-vue-component
+[link_coverage]:https://codecov.io/gh/shawon3719/bank-card-vue-component/
 [link_npm]:https://www.npmjs.com/package/@shawon3719/vue-bank-card-input
-[link_create_issue]:https://github.com/avto-dev/bank-card-vue-component/issues/new/choose
-[link_license]:https://github.com/avto-dev/bank-card-vue-component/blob/master/LICENSE
+[link_create_issue]:https://github.com/shawon3719/bank-card-vue-component/issues/new/choose
+[link_license]:https://github.com/shawon3719/bank-card-vue-component/blob/master/LICENSE

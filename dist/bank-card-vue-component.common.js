@@ -3842,7 +3842,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
-var withParams = Object({"NODE_ENV":"production","BASE_URL":"","BANK_CARD_VUE_COMPONENT_IMAGES_BASE_PATH":"//cdn.jsdelivr.net/gh/avto-dev/bank-card-vue-component@0.0.0-THIS-VALUE-WILL-BE-SET-DURING-BUILD/public/images/","BANK_CARD_VUE_COMPONENT_VERSION":"0.0.0-THIS-VALUE-WILL-BE-SET-DURING-BUILD"}).BUILD === 'web' ? __webpack_require__("cb69").withParams : __webpack_require__("0234").withParams;
+var withParams = Object({"NODE_ENV":"production","BASE_URL":"","BANK_CARD_VUE_COMPONENT_IMAGES_BASE_PATH":"//cdn.jsdelivr.net/gh/shawon3719/bank-card-vue-component@0.0.0-THIS-VALUE-WILL-BE-SET-DURING-BUILD/public/images/","BANK_CARD_VUE_COMPONENT_VERSION":"0.0.0-THIS-VALUE-WILL-BE-SET-DURING-BUILD"}).BUILD === 'web' ? __webpack_require__("cb69").withParams : __webpack_require__("0234").withParams;
 var _default = withParams;
 exports.default = _default;
 
@@ -8041,7 +8041,7 @@ var VueBankCardSmall_component = normalizeComponent(
     },
     imagesBasePath: {
       type: String,
-      default: String("//cdn.jsdelivr.net/gh/avto-dev/bank-card-vue-component@0.0.0-THIS-VALUE-WILL-BE-SET-DURING-BUILD/public/images/")
+      default: String("//cdn.jsdelivr.net/gh/shawon3719/bank-card-vue-component@0.0.0-THIS-VALUE-WILL-BE-SET-DURING-BUILD/public/images/")
     },
     isYearValidation: {
       type: Boolean,
