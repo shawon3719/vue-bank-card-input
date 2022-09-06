@@ -608,7 +608,8 @@ $disabled-color: #e5e9ed;
             max-height: 21px;
             height: 100%;
             margin-top: 10px;
-
+            white-space: nowrap;
+            
             &.card__number {
                 margin-top: 0;
             }
@@ -622,6 +623,7 @@ $disabled-color: #e5e9ed;
                     font-size: 10px;
                     line-height: 13px;
                     transform: translateY(-12px);
+                    white-space: nowrap;
                 }
             }
 
