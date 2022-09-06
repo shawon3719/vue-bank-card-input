@@ -18,7 +18,8 @@
     "input"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "shawon3719:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "watch": "vue-cli-service serve ./demo/index.js",
