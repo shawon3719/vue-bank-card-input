@@ -103,7 +103,7 @@
                         :for="generateId('expDateMonth')"
                         class="card__field-label"
                     >
-                        MM / YY
+                        MM/YY
                     </label>
 
                     <div class="card__date-inner">
@@ -436,8 +436,8 @@ $base-font-family: "PT Sans", Arial, sans-serif;
 $field-font-family: "Roboto Mono", Arial, sans-serif;
 $security-font-family: "text-security-disc";
 
-$base-color: #343434;
-$secondary-color: #ababab;
+$base-color: rgba(0, 0, 0, 0.87);
+$secondary-color: #9FAEC2;
 $invalid-color: #ff0624;
 $disabled-color: #e5e9ed;
 
@@ -446,14 +446,14 @@ $disabled-color: #e5e9ed;
     flex-wrap: nowrap;
     width: 100%;
     height: 45px;
-    border: 1px solid #e5e5e5;
-    border-radius: 2px;
+    border: 1px solid rgba(0, 0, 0, 0.42);
+    border-radius: 5px;
     background-color: #fafafa;
     transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
 
     &--focused {
         background-color: #fff;
-        border-color: #067eff;
+        border: 2px solid rgba(0, 0, 0, 0.87);
         box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
     }
 
@@ -486,8 +486,6 @@ $disabled-color: #e5e9ed;
         transition: border-color 0.3s;
 
         &--focused {
-            border-color: #ffc510;
-
             .card__field-label {
                 color: $secondary-color;
             }
@@ -589,7 +587,7 @@ $disabled-color: #e5e9ed;
             font-family: $base-font-family;
             font-size: 16px;
             line-height: 19px;
-            color: $base-color;
+            color: $secondary-color;
             transition: font-size 0.2s, color 0.2s, transform 0.2s;
         }
 
@@ -662,7 +660,7 @@ $disabled-color: #e5e9ed;
             font-size: 16px;
             font-family: "PT Sans", "Arial", sans-serif;
             line-height: 19px;
-            color: $base-color;
+            color: $secondary-color;
         }
 
         &:focus::placeholder {
