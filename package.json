@@ -1,58 +1,65 @@
 {
-    "name": "@shawon3719/vue-bank-card-input",
-    "version": "0.0.0-THIS-VALUE-WILL-BE-SET-DURING-BUILD",
-    "description": "Vue Component - bank card",
-    "author": "https://github.com/shawon3719",
-    "license": "MIT",
-    "private": false,
-    "main": "dist/bank-card-vue-component.umd.js",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/shawon3719/vue-bank-card-input.git"
-    },
-    "keywords": [
-        "vue",
-        "component",
-        "bank",
-        "card"
-    ],
-    "publishConfig": {
-        "access": "public"
-    },
-    "scripts": {
-        "watch": "vue-cli-service serve ./demo/index.js",
-        "build": "vue-cli-service build --name bank-card-vue-component --target lib ./src/index.js",
-        "build:demo": "cross-env IS_DEMO=true vue-cli-service build --name bank-card-vue-component-demo --target app ./demo/index.js",
-        "lint": "vue-cli-service lint --no-fix",
-        "lint:fix": "vue-cli-service lint",
-        "test": "jest --coverage"
-    },
-    "dependencies": {
-        "core-js": "^3.16.0",
-        "vue": "^2.6.14",
-        "vue-the-mask": "^0.11.1",
-        "vuelidate": "^0.7.6"
-    },
-    "devDependencies": {
-        "@vue/cli-plugin-babel": "^4.5.9",
-        "@vue/cli-plugin-eslint": "^4.5.9",
-        "@vue/cli-service": "^4.5.9",
-        "@vue/eslint-config-prettier": "^6.0.0",
-        "@vue/test-utils": "^1.2.2",
-        "babel-core": "^6.26.3",
-        "babel-eslint": "^10.0.1",
-        "babel-jest": "^26.6.3",
-        "babel-preset-env": "^1.7.0",
-        "cross-env": "^7.0.2",
-        "eslint": "^7.32.0",
-        "eslint-plugin-prettier": "^3.1.4",
-        "eslint-plugin-vue": "^7.15.1",
-        "jest": "^26.6.3",
-        "jest-transform-stub": "^2.0.0",
-        "markdown-loader-jest": "^0.1.1",
-        "node-sass": "^5.0.0",
-        "sass-loader": "^10.1.0",
-        "vue-jest": "^3.0.7",
-        "vue-template-compiler": "^2.6.14"
-    }
+  "name": "@shawon3719/vue-bank-card-input",
+  "version": "0.0.0-THIS-VALUE-WILL-BE-SET-DURING-BUILD",
+  "description": "Vue Component - bank card",
+  "author": "https://github.com/shawon3719",
+  "license": "MIT",
+  "private": false,
+  "main": "dist/bank-card-vue-component.umd.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawon3719/vue-bank-card-input.git"
+  },
+  "keywords": [
+    "vue",
+    "component",
+    "bank",
+    "card"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "watch": "vue-cli-service serve ./demo/index.js",
+    "build": "vue-cli-service build --name bank-card-vue-component --target lib ./src/index.js",
+    "build:demo": "cross-env IS_DEMO=true vue-cli-service build --name bank-card-vue-component-demo --target app ./demo/index.js",
+    "lint": "vue-cli-service lint --no-fix",
+    "lint:fix": "vue-cli-service lint",
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "core-js": "^3.16.0",
+    "vue": "^2.6.14",
+    "vue-the-mask": "^0.11.1",
+    "vuelidate": "^0.7.6"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.9",
+    "@vue/cli-plugin-eslint": "^4.5.9",
+    "@vue/cli-service": "^4.5.9",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/test-utils": "^1.2.2",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^26.6.3",
+    "babel-preset-env": "^1.7.0",
+    "cross-env": "^7.0.2",
+    "eslint": "^7.32.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^7.15.1",
+    "jest": "^26.6.3",
+    "jest-transform-stub": "^2.0.0",
+    "markdown-loader-jest": "^0.1.1",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0",
+    "vue-jest": "^3.0.7",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "bugs": {
+    "url": "https://github.com/shawon3719/vue-bank-card-input/issues"
+  },
+  "homepage": "https://github.com/shawon3719/vue-bank-card-input#readme",
+  "directories": {
+    "test": "tests"
+  }
 }
