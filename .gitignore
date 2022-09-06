@@ -1,0 +1,23 @@
+## IDEs
+/nbproject
+/.idea
+
+## Vendors
+/node_modules
+
+## Lock files (use yarn only)
+/package-lock.json
+
+## Dist
+/dist
+/dist-demo
+
+## Temp dirs & trash
+/npm-debug.log
+/yarn-error.log
+/temp
+/tmp
+/coverage
+/build
+.DS_Store
+.env*
