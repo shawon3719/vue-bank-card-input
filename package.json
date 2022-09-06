@@ -14,7 +14,8 @@
     "vue",
     "component",
     "bank",
-    "card"
+    "card",
+    "input"
   ],
   "publishConfig": {
     "access": "public"
