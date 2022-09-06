@@ -5,7 +5,7 @@
   "author": "https://github.com/shawon3719",
   "license": "MIT",
   "private": false,
-  "main": "dist/bank-card-vue-component.umd.js",
+  "main": "dist/vue-bank-card-input.umd.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shawon3719/vue-bank-card-input.git"
@@ -22,8 +22,8 @@
   },
   "scripts": {
     "watch": "vue-cli-service serve ./demo/index.js",
-    "build": "vue-cli-service build --name bank-card-vue-component --target lib ./src/index.js",
-    "build:demo": "cross-env IS_DEMO=true vue-cli-service build --name bank-card-vue-component-demo --target app ./demo/index.js",
+    "build": "vue-cli-service build --name vue-bank-card-input --target lib ./src/index.js",
+    "build:demo": "cross-env IS_DEMO=true vue-cli-service build --name vue-bank-card-input-demo --target app ./demo/index.js",
     "lint": "vue-cli-service lint --no-fix",
     "lint:fix": "vue-cli-service lint",
     "test": "jest --coverage"
