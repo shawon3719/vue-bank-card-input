@@ -103,7 +103,7 @@ export default {
     data() {
         return {
             componentVersion: String(
-                process.env.BANK_CARD_VUE_COMPONENT_VERSION
+                process.env.VUE_BANK_CARD_INPUT_VERSION
             ),
             imagesPath: "images/",
             readmePath:

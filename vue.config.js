@@ -4,8 +4,8 @@ const path = require("path");
 const outputDir = path.resolve(process.env.IS_DEMO ? "dist-demo" : "dist");
 const packageJson = require("./package");
 
-const BANK_CARD_VUE_COMPONENT_VERSION = packageJson.version;
-const DEFAULT_BANK_CARD_VUE_COMPONENT_IMAGES_BASE_PATH = `//cdn.jsdelivr.net/gh/shawon3719/vue-bank-card-input@${BANK_CARD_VUE_COMPONENT_VERSION}/public/images/`;
+const VUE_BANK_CARD_INPUT_VERSION = packageJson.version;
+const DEFAULT_BANK_CARD_VUE_COMPONENT_IMAGES_BASE_PATH = `//cdn.jsdelivr.net/gh/shawon3719/vue-bank-card-input@master/public/images/`;
 
 let buildConfig = {
     publicPath: "",
@@ -39,7 +39,7 @@ let buildConfig = {
                     BANK_CARD_VUE_COMPONENT_IMAGES_BASE_PATH:
                         process.env.BANK_CARD_VUE_COMPONENT_IMAGES_BASE_PATH ||
                         `"${DEFAULT_BANK_CARD_VUE_COMPONENT_IMAGES_BASE_PATH}"`,
-                    BANK_CARD_VUE_COMPONENT_VERSION: `"${BANK_CARD_VUE_COMPONENT_VERSION}"`
+                    VUE_BANK_CARD_INPUT_VERSION: `"${VUE_BANK_CARD_INPUT_VERSION}"`
                 }
             );
             return definitions;
