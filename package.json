@@ -8,7 +8,7 @@
   "main": "dist/vue-bank-card-input.umd.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shawon3719/vue-bank-card-input"
+    "url": "git+https://github.com/shawon3719/vue-bank-card-input.git"
   },
   "keywords": [
     "vue",
