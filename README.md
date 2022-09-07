@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://hsto.org/webt/hr/bv/wn/hrbvwnbouxlcak5inmxeccaohf0.png" alt="" />
+  <img src="https://iili.io/68jP1e.png" alt="" />
+  <img src="https://iili.io/68jmhB.png" alt="" />
 </p>
 
-# Vue Bank Card (component)
+# Vue Bank Card Input
 
 [![Version (npm)][badge_npm_version]][link_npm]
 ![Vue.js version][badge_vue_version]
@@ -12,7 +13,7 @@
 
 > Vue Component for user data entry of the bank card
 
-**Demonstration is [available here](https://github.com/shawon3719/vue-bank-card-input.git).**
+**Demonstration is [available here](https://shawon3719.github.io/vue-bank-card-input/).**
 
 ## Installation
 
@@ -85,9 +86,9 @@ export default {
   data() {
     return {
       errors: {
-          cardNumber: "Недостаточно средств на карте",
-          expDateMonth: "Карта просрочена",
-          cvv: "Неверный код cvv"
+          cardNumber: "Enter valid card",
+          expDateMonth: "Card has been expired",
+          cvv: "Invalid CVV"
       },
       resetForm: false
     }
