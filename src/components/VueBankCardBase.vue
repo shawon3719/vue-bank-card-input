@@ -98,7 +98,7 @@
                     </button>
 
                     <VueBankCardTooltip :is-show="$v.cardNumber.$error">
-                        Вам нужно заполнить это поле
+                        You need to fill in this field
                     </VueBankCardTooltip>
                     <VueBankCardTooltip
                         :is-show="!!errorFiltered('cardNumber')"
@@ -114,7 +114,7 @@
                         class="card__field-label"
                         :style="{ color: cssPropertySpecial('textColor') }"
                     >
-                        Действует до:
+                        Valid until:
                     </p>
 
                     <div class="card__expiration">
@@ -155,7 +155,7 @@
                                 maxlength="2"
                                 inputmode="numeric"
                                 ref="expDateYear"
-                                placeholder="ГГ"
+                                placeholder="YY"
                                 v-mask="expDateYearMask"
                                 :value="expDateYear"
                                 :class="fieldCssClasses('expDateYear')"
@@ -173,7 +173,7 @@
                             $v.expDateMonth.$error || $v.expDateYear.$error
                         "
                     >
-                        Введите дату как на карте
+                        Enter the date as on the map
                     </VueBankCardTooltip>
                     <VueBankCardTooltip
                         :is-show="
@@ -193,7 +193,7 @@
                         class="card__field-label"
                         :style="{ color: cssPropertySpecial('textColor') }"
                     >
-                        Код с обратной стороны:
+                        Back side code:
                     </p>
 
                     <input
@@ -215,7 +215,7 @@
                     />
 
                     <VueBankCardTooltip :is-show="$v.cvv.$error">
-                        Вам нужно заполнить это поле
+                        You need to fill in this field
                     </VueBankCardTooltip>
 
                     <VueBankCardTooltip :is-show="!!errorFiltered('cvv')">

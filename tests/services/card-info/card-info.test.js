@@ -92,13 +92,13 @@ describe("Card-info", () => {
         describe("base", () => {
             it("bank", () => {
                 const bankInfo = {
-                    bankAlias: "ru-tinkoff",
+                    bankAlias: "ru-hcb",
                     bankCountry: "ru",
-                    bankLogo: "banks-logos/ru-tinkoff.png",
-                    bankLogoSm: "banks-logos/ru-tinkoff-sm.png",
+                    bankLogo: "banks-logos/ru-hcb.png",
+                    bankLogoSm: "banks-logos/ru-hcb-sm.png",
                     bankLogoStyle: "white",
-                    bankName: "Тинькофф Банк",
-                    bankNameEn: "Tinkoff Bank",
+                    bankName: "House Credit Bank",
+                    bankNameEn: "House Credit Bank",
                 };
 
                 testValues(bankInfo);

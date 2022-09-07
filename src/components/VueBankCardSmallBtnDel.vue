@@ -2,7 +2,7 @@
     <button
         class="vbc-btn"
         :class="{ 'vbc-btn--disabled': disable }"
-        title="Удалить данные карты"
+        title="Delete card data"
         @click.stop="$emit('delete-card', $event)"
     >
         <svg

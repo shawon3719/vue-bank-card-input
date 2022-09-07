@@ -134,7 +134,7 @@ describe("VueBankCardSmall", () => {
                 }
             });
             const iconEl = wrapper.find(".card__icon");
-            const icon = "ru-tinkoff-sm.png";
+            const icon = "ru-hcb-sm.png";
             const bankColor = "rgb(51, 51, 51)";
 
             expect(iconEl.attributes().style.includes(icon)).toBeTruthy();
