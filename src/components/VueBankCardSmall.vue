@@ -48,7 +48,7 @@
                         type="tel"
                         data-cp="cardNumber"
                         autocomplete="cc-number"
-                        maxlength="23"
+                        maxlength="16"
                         pattern="[ 0-9]*"
                         inputmode="numeric"
                         ref="cardNumber"
