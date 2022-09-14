@@ -41,7 +41,7 @@
             @input-exp-date-month="expDateMonth = $event"
             @input-exp-date-year="expDateYear = $event"
             @input-cvv="cvv = $event"
-            @enter="$emit('enter', $event)"
+            @enter="$emit('enter', cardNumber, expDateMonth, expDateYear, cvv)"
             @clear-errors="$emit('clear-errors', $event)"
             @reset="$emit('reset', $event)"
             @delete-card="deleteCard"
