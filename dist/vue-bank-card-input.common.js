@@ -824,13 +824,6 @@ module.exports = function (argument) {
 
 /***/ }),
 
-/***/ "16e1":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-
 /***/ "17c2":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1758,13 +1751,6 @@ exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
 
 /***/ }),
 
-/***/ "2479":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-
 /***/ "2532":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1969,17 +1955,6 @@ var _default = function _default() {
 };
 
 exports.default = _default;
-
-/***/ }),
-
-/***/ "3396":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_1_id_9c2b7e80_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("16e1");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_1_id_9c2b7e80_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_1_id_9c2b7e80_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
-
 
 /***/ }),
 
@@ -2674,6 +2649,13 @@ $({ target: 'Array', proto: true, forced: FORCED }, {
   }
 });
 
+
+/***/ }),
+
+/***/ "4f6a":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
 
 /***/ }),
 
@@ -3449,6 +3431,17 @@ module.exports = {
 
 /***/ }),
 
+/***/ "70ad":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_1_id_351466b2_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("9231");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_1_id_351466b2_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_1_id_351466b2_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+
+
+/***/ }),
+
 /***/ "7156":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3819,6 +3812,28 @@ module.exports = function (object, key, value) {
 
 /***/ }),
 
+/***/ "84cc":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_0_id_351466b2_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("9504");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_0_id_351466b2_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_0_id_351466b2_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+
+
+/***/ }),
+
+/***/ "84d5":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCardSmall_vue_vue_type_style_index_0_id_76e89380_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("4f6a");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCardSmall_vue_vue_type_style_index_0_id_76e89380_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCardSmall_vue_vue_type_style_index_0_id_76e89380_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+
+
+/***/ }),
+
 /***/ "861d":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3848,7 +3863,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
-var withParams = Object({"NODE_ENV":"production","BASE_URL":"","BANK_CARD_VUE_COMPONENT_IMAGES_BASE_PATH":"//cdn.jsdelivr.net/gh/shawon3719/vue-bank-card-input@master/public/images/","VUE_BANK_CARD_INPUT_VERSION":"1.0.15"}).BUILD === 'web' ? __webpack_require__("cb69").withParams : __webpack_require__("0234").withParams;
+var withParams = Object({"NODE_ENV":"production","BASE_URL":"","BANK_CARD_VUE_COMPONENT_IMAGES_BASE_PATH":"//cdn.jsdelivr.net/gh/shawon3719/vue-bank-card-input@master/public/images/","VUE_BANK_CARD_INPUT_VERSION":"1.0.16"}).BUILD === 'web' ? __webpack_require__("cb69").withParams : __webpack_require__("0234").withParams;
 var _default = withParams;
 exports.default = _default;
 
@@ -4028,17 +4043,6 @@ module.exports = DESCRIPTORS ? function (object, key, value) {
 
 /***/ }),
 
-/***/ "912e":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_0_id_9c2b7e80_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("9359");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_0_id_9c2b7e80_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCard_vue_vue_type_style_index_0_id_9c2b7e80_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
-
-
-/***/ }),
-
 /***/ "91d3":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4075,6 +4079,13 @@ exports.default = _default;
 var hexValid = function hexValid(hex) {
   return hex.toLowerCase().match(/^[0-9a-f]{2}$/);
 };
+
+/***/ }),
+
+/***/ "9231":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
 
 /***/ }),
 
@@ -4203,13 +4214,6 @@ module.exports = patchedExec;
 
 /***/ }),
 
-/***/ "9359":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-
 /***/ "94ca":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4236,6 +4240,13 @@ var POLYFILL = isForced.POLYFILL = 'P';
 
 module.exports = isForced;
 
+
+/***/ }),
+
+/***/ "9504":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
 
 /***/ }),
 
@@ -4503,8 +4514,8 @@ __webpack_require__.d(brands_schemas_namespaceObject, "mir", function() { return
 __webpack_require__.d(brands_schemas_namespaceObject, "unionpay", function() { return unionpay; });
 __webpack_require__.d(brands_schemas_namespaceObject, "visa", function() { return visa; });
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"2977adf3-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCard.vue?vue&type=template&id=9c2b7e80&scoped=true&
-var VueBankCardvue_type_template_id_9c2b7e80_scoped_true_render = function render() {
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"b88f20ec-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCard.vue?vue&type=template&id=351466b2&scoped=true&
+var VueBankCardvue_type_template_id_351466b2_scoped_true_render = function render() {
   var _vm = this,
       _c = _vm._self._c;
 
@@ -4550,6 +4561,13 @@ var VueBankCardvue_type_template_id_9c2b7e80_scoped_true_render = function rende
     }
   }) : _c('VueBankCardSmall', {
     attrs: {
+      "card_number_label": _vm.card_number_label,
+      "expiration_label": _vm.expiration_label,
+      "cvv_label": _vm.cvv_label,
+      "card_number_placeholder": _vm.card_number_placeholder,
+      "number_required": _vm.number_required,
+      "expiration_invalid": _vm.expiration_invalid,
+      "cvv_invalid": _vm.cvv_invalid,
       "is-new": _vm.isNew,
       "card-info": _vm.cardInfo,
       "card-number": _vm.cardNumber,
@@ -4606,7 +4624,7 @@ var VueBankCardvue_type_template_id_9c2b7e80_scoped_true_render = function rende
 
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./src/components/VueBankCard.vue?vue&type=template&id=9c2b7e80&scoped=true&
+// CONCATENATED MODULE: ./src/components/VueBankCard.vue?vue&type=template&id=351466b2&scoped=true&
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.symbol.js
 var es_symbol = __webpack_require__("a4d3");
@@ -6278,7 +6296,7 @@ var card_info_CardInfo = /*#__PURE__*/function (_Card) {
 }(card_Card);
 
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"2977adf3-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCardBase.vue?vue&type=template&id=24a54475&scoped=true&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"b88f20ec-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCardBase.vue?vue&type=template&id=24a54475&scoped=true&
 
 
 
@@ -7125,7 +7143,7 @@ var es_array_map = __webpack_require__("d81d");
 var mixins_commonMixin = commonMixin;
 var mixins_validatorsMixin = validatorsMixin;
 var mixins_helpersMixin = helpersMixin;
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"2977adf3-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCardTooltip.vue?vue&type=template&id=07bbe054&scoped=true&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"b88f20ec-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCardTooltip.vue?vue&type=template&id=07bbe054&scoped=true&
 var VueBankCardTooltipvue_type_template_id_07bbe054_scoped_true_render = function render() {
   var _vm = this,
       _c = _vm._self._c;
@@ -7373,8 +7391,8 @@ var VueBankCardBase_component = normalizeComponent(
 )
 
 /* harmony default export */ var VueBankCardBase = (VueBankCardBase_component.exports);
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"2977adf3-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCardSmall.vue?vue&type=template&id=59381846&scoped=true&
-var VueBankCardSmallvue_type_template_id_59381846_scoped_true_render = function render() {
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"b88f20ec-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCardSmall.vue?vue&type=template&id=76e89380&scoped=true&
+var VueBankCardSmallvue_type_template_id_76e89380_scoped_true_render = function render() {
   var _vm = this,
       _c = _vm._self._c;
 
@@ -7427,7 +7445,7 @@ var VueBankCardSmallvue_type_template_id_59381846_scoped_true_render = function 
       "data-test-label-field-number": "",
       "for": _vm.generateId('cardNumber')
     }
-  }, [_vm._v(" Card number ")]) : _vm._e(), _c('input', {
+  }, [_vm._v(" " + _vm._s(_vm.card_number_label) + " ")]) : _vm._e(), _c('input', {
     directives: [{
       name: "show",
       rawName: "v-show",
@@ -7503,7 +7521,7 @@ var VueBankCardSmallvue_type_template_id_59381846_scoped_true_render = function 
       "position": "left",
       "is-show": _vm.$v.cardNumber.$error && _vm.$v.cardNumber.required
     }
-  }, [_vm._v(" You need to fill in this field ")])], 1), _c('transition', {
+  }, [_vm._v(" " + _vm._s(_vm.number_required) + " ")])], 1), _c('transition', {
     attrs: {
       "name": "fade"
     }
@@ -7530,7 +7548,7 @@ var VueBankCardSmallvue_type_template_id_59381846_scoped_true_render = function 
     attrs: {
       "for": _vm.generateId('expDateMonth')
     }
-  }, [_vm._v(" MM/YY ")]), _c('div', {
+  }, [_vm._v(" " + _vm._s(_vm.expiration_label) + " ")]), _c('div', {
     staticClass: "card__date-inner"
   }, [_c('input', {
     directives: [{
@@ -7616,7 +7634,7 @@ var VueBankCardSmallvue_type_template_id_59381846_scoped_true_render = function 
       "position": "right",
       "is-show": _vm.$v.expDateMonth.$error || _vm.$v.expDateYear.$error
     }
-  }, [_vm._v(" Date invalid ")]), _c('VueBankCardTooltip', {
+  }, [_vm._v(" " + _vm._s(_vm.expiration_invalid) + " ")]), _c('VueBankCardTooltip', {
     attrs: {
       "position": "right",
       "is-show": !!_vm.errorFiltered('expDateMonth') || !!_vm.errorFiltered('expDateYear')
@@ -7634,7 +7652,7 @@ var VueBankCardSmallvue_type_template_id_59381846_scoped_true_render = function 
     attrs: {
       "for": _vm.generateId('cvv')
     }
-  }, [_vm._v(" " + _vm._s(_vm.cardInfo.codeName || "CVV") + " ")]), _c('input', {
+  }, [_vm._v(" " + _vm._s(_vm.cardInfo.codeName || _vm.cvv_label) + " ")]), _c('input', {
     directives: [{
       name: "mask",
       rawName: "v-mask",
@@ -7673,7 +7691,7 @@ var VueBankCardSmallvue_type_template_id_59381846_scoped_true_render = function 
       "is-show": _vm.$v.cvv.$error,
       "position": "right"
     }
-  }, [_vm._v(" Invalid data ")]), _c('VueBankCardTooltip', {
+  }, [_vm._v(" " + _vm._s(_vm.cvv_invalid) + " ")]), _c('VueBankCardTooltip', {
     attrs: {
       "is-show": !!_vm.errorFiltered('cvv'),
       "position": "right"
@@ -7690,9 +7708,9 @@ var VueBankCardSmallvue_type_template_id_59381846_scoped_true_render = function 
   }) : _vm._e()], 1);
 };
 
-var VueBankCardSmallvue_type_template_id_59381846_scoped_true_staticRenderFns = [];
+var VueBankCardSmallvue_type_template_id_76e89380_scoped_true_staticRenderFns = [];
 
-// CONCATENATED MODULE: ./src/components/VueBankCardSmall.vue?vue&type=template&id=59381846&scoped=true&
+// CONCATENATED MODULE: ./src/components/VueBankCardSmall.vue?vue&type=template&id=76e89380&scoped=true&
 
 // CONCATENATED MODULE: ./src/utils/click-outside-directive.js
 
@@ -7726,7 +7744,7 @@ var cacheClickOutside = "__vueClickOutside__";
     delete el[cacheClickOutside];
   }
 });
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"2977adf3-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCardSmallBtnDel.vue?vue&type=template&id=15b99b75&scoped=true&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"b88f20ec-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/VueBankCardSmallBtnDel.vue?vue&type=template&id=15b99b75&scoped=true&
 var VueBankCardSmallBtnDelvue_type_template_id_15b99b75_scoped_true_render = function render() {
   var _vm = this,
       _c = _vm._self._c;
@@ -7822,6 +7840,36 @@ var VueBankCardSmallBtnDel_component = normalizeComponent(
     clickOutside: click_outside_directive
   },
   mixins: [mixins_commonMixin, lib["validationMixin"], mixins_validatorsMixin, mixins_helpersMixin],
+  props: {
+    card_number_label: {
+      type: String,
+      default: "Card number"
+    },
+    expiration_label: {
+      type: String,
+      default: "MM/YY"
+    },
+    cvv_label: {
+      type: String,
+      default: "CVV"
+    },
+    card_number_placeholder: {
+      type: String,
+      default: "Enter Card Number"
+    },
+    number_required: {
+      type: String,
+      default: "You need to fill this field"
+    },
+    expiration_invalid: {
+      type: String,
+      default: "Date invalid"
+    },
+    cvv_invalid: {
+      type: String,
+      default: "Invalid data"
+    }
+  },
   data: function data() {
     return {
       cardFocused: false,
@@ -7854,10 +7902,10 @@ var VueBankCardSmallBtnDel_component = normalizeComponent(
      */
     textPlaceholderInput: function textPlaceholderInput() {
       if (!this.cardFocused && this.isFieldEmpty("cardNumber")) {
-        return "Enter Card Number";
+        return this.card_number_placeholder;
       }
 
-      return "Card number";
+      return this.card_number_label;
     },
 
     /**
@@ -8001,8 +8049,8 @@ var VueBankCardSmallBtnDel_component = normalizeComponent(
 });
 // CONCATENATED MODULE: ./src/components/VueBankCardSmall.vue?vue&type=script&lang=js&
  /* harmony default export */ var components_VueBankCardSmallvue_type_script_lang_js_ = (VueBankCardSmallvue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./src/components/VueBankCardSmall.vue?vue&type=style&index=0&id=59381846&prod&lang=scss&scoped=true&
-var VueBankCardSmallvue_type_style_index_0_id_59381846_prod_lang_scss_scoped_true_ = __webpack_require__("ff86");
+// EXTERNAL MODULE: ./src/components/VueBankCardSmall.vue?vue&type=style&index=0&id=76e89380&prod&lang=scss&scoped=true&
+var VueBankCardSmallvue_type_style_index_0_id_76e89380_prod_lang_scss_scoped_true_ = __webpack_require__("84d5");
 
 // CONCATENATED MODULE: ./src/components/VueBankCardSmall.vue
 
@@ -8015,11 +8063,11 @@ var VueBankCardSmallvue_type_style_index_0_id_59381846_prod_lang_scss_scoped_tru
 
 var VueBankCardSmall_component = normalizeComponent(
   components_VueBankCardSmallvue_type_script_lang_js_,
-  VueBankCardSmallvue_type_template_id_59381846_scoped_true_render,
-  VueBankCardSmallvue_type_template_id_59381846_scoped_true_staticRenderFns,
+  VueBankCardSmallvue_type_template_id_76e89380_scoped_true_render,
+  VueBankCardSmallvue_type_template_id_76e89380_scoped_true_staticRenderFns,
   false,
   null,
-  "59381846",
+  "76e89380",
   null
   
 )
@@ -8040,6 +8088,34 @@ var VueBankCardSmall_component = normalizeComponent(
     VueBankCardSmall: VueBankCardSmall
   },
   props: {
+    card_number_label: {
+      type: String,
+      default: "Card number"
+    },
+    expiration_label: {
+      type: String,
+      default: "MM/YY"
+    },
+    cvv_label: {
+      type: String,
+      default: "CVV"
+    },
+    card_number_placeholder: {
+      type: String,
+      default: "Enter Card Number"
+    },
+    number_required: {
+      type: String,
+      default: "You need to fill this field"
+    },
+    expiration_invalid: {
+      type: String,
+      default: "Date invalid"
+    },
+    cvv_invalid: {
+      type: String,
+      default: "Invalid data"
+    },
     isSmall: {
       type: Boolean,
       default: false
@@ -8134,11 +8210,11 @@ var VueBankCardSmall_component = normalizeComponent(
 });
 // CONCATENATED MODULE: ./src/components/VueBankCard.vue?vue&type=script&lang=js&
  /* harmony default export */ var components_VueBankCardvue_type_script_lang_js_ = (VueBankCardvue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./src/components/VueBankCard.vue?vue&type=style&index=0&id=9c2b7e80&prod&lang=scss&scoped=true&
-var VueBankCardvue_type_style_index_0_id_9c2b7e80_prod_lang_scss_scoped_true_ = __webpack_require__("912e");
+// EXTERNAL MODULE: ./src/components/VueBankCard.vue?vue&type=style&index=0&id=351466b2&prod&lang=scss&scoped=true&
+var VueBankCardvue_type_style_index_0_id_351466b2_prod_lang_scss_scoped_true_ = __webpack_require__("84cc");
 
-// EXTERNAL MODULE: ./src/components/VueBankCard.vue?vue&type=style&index=1&id=9c2b7e80&prod&lang=scss&
-var VueBankCardvue_type_style_index_1_id_9c2b7e80_prod_lang_scss_ = __webpack_require__("3396");
+// EXTERNAL MODULE: ./src/components/VueBankCard.vue?vue&type=style&index=1&id=351466b2&prod&lang=scss&
+var VueBankCardvue_type_style_index_1_id_351466b2_prod_lang_scss_ = __webpack_require__("70ad");
 
 // CONCATENATED MODULE: ./src/components/VueBankCard.vue
 
@@ -8152,11 +8228,11 @@ var VueBankCardvue_type_style_index_1_id_9c2b7e80_prod_lang_scss_ = __webpack_re
 
 var VueBankCard_component = normalizeComponent(
   components_VueBankCardvue_type_script_lang_js_,
-  VueBankCardvue_type_template_id_9c2b7e80_scoped_true_render,
+  VueBankCardvue_type_template_id_351466b2_scoped_true_render,
   staticRenderFns,
   false,
   null,
-  "9c2b7e80",
+  "351466b2",
   null
   
 )
@@ -11329,17 +11405,6 @@ var NATIVE_SYMBOL = __webpack_require__("04f8");
 module.exports = NATIVE_SYMBOL
   && !Symbol.sham
   && typeof Symbol.iterator == 'symbol';
-
-
-/***/ }),
-
-/***/ "ff86":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCardSmall_vue_vue_type_style_index_0_id_59381846_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("2479");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCardSmall_vue_vue_type_style_index_0_id_59381846_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_9_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_9_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_9_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_9_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_VueBankCardSmall_vue_vue_type_style_index_0_id_59381846_prod_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
 
 
 /***/ })

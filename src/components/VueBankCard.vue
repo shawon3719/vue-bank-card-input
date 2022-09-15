@@ -24,6 +24,13 @@
         />
         <VueBankCardSmall
             v-else
+            :card_number_label="card_number_label"
+            :expiration_label="expiration_label"
+            :cvv_label="cvv_label"
+            :card_number_placeholder="card_number_placeholder"
+            :number_required="number_required"
+            :expiration_invalid="expiration_invalid"
+            :cvv_invalid="cvv_invalid"
             :is-new="isNew"
             :card-info="cardInfo"
             :card-number="cardNumber"
@@ -63,6 +70,34 @@ export default {
         VueBankCardSmall
     },
     props: {
+        card_number_label: {
+            type: String,
+            default: "Card number",
+        },
+        expiration_label: {
+            type: String,
+            default: "MM/YY",
+        },
+        cvv_label: {
+            type: String,
+            default: "CVV",
+        },
+        card_number_placeholder: {
+            type: String,
+            default: "Enter Card Number",
+        },
+        number_required: {
+            type: String,
+            default: "You need to fill this field",
+        },
+        expiration_invalid: {
+            type: String,
+            default: "Date invalid",
+        },
+        cvv_invalid: {
+            type: String,
+            default: "Invalid data",
+        },
         isSmall: {
             type: Boolean,
             default: false

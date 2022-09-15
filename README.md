@@ -47,6 +47,13 @@ Vue.component("VueBankCard", VueBankCard)
 
 Name      | Required | Type           | Default | Description
 :---      | :---     | :---           | :---    | :---
+`card_number_label`  | no       | String | `"Card number"`    | You can use your locale text
+`expiration_label`  | no       | String | `"MM/YY"`    | You can use your locale text
+`cvv_label`  | no       | String | `"CVV"`    | You can use your locale text
+`card_number_placeholder`  | no       | String | `"Enter Card Number"`    | You can use your locale text
+`number_required`  | no       | String | `"You need to fill this field"`    | You can use your locale text
+`expiration_invalid`  | no       | String | `"Date invalid"`    | You can use your locale text
+`cvv_invalid`  | no       | String | `"Invalid data"`    | You can use your locale text
 `number`  | no       | String, Object | `""`    | Number of card
 `isSmall` | no       | Boolean        | `false` | View card controller: base or small
 `isNew`   | no       | Boolean        | `false` | View card controller: saved or new
@@ -64,6 +71,7 @@ Name           | Type     | Parameters | Description
 `clear-errors` | Function | `errors` - Object of errors | Clearing errors from outside
 `reset`        | Function | `isReset` - State of isReset property, type Boolean | Turn off isReset property
 `delete-card`  | Function | `event` - Event of click | Handler of click on trash button
+`getCardInfo`  | Function | `event` - get all input data
 
 ## Example
 

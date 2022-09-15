@@ -38,7 +38,7 @@
                         class="card__field-label"
                         :for="generateId('cardNumber')"
                     >
-                       Card number
+                       {{ card_number_label }}
                     </label>
 
                     <input
@@ -86,7 +86,7 @@
                             $v.cardNumber.$error && $v.cardNumber.required
                         "
                     >
-                        You need to fill in this field
+                        {{ number_required }}
                     </VueBankCardTooltip>
                 </div>
                 <transition name="fade">
@@ -103,7 +103,7 @@
                         :for="generateId('expDateMonth')"
                         class="card__field-label"
                     >
-                        MM/YY
+                        {{ expiration_label }}
                     </label>
 
                     <div class="card__date-inner">
@@ -159,7 +159,7 @@
                             $v.expDateMonth.$error || $v.expDateYear.$error
                         "
                     >
-                       Date invalid
+                       {{ expiration_invalid }}
                     </VueBankCardTooltip>
                     <VueBankCardTooltip
                         position="right"
@@ -177,7 +177,7 @@
 
                 <div v-show="isNew" :class="cvvCssClasses">
                     <label :for="generateId('cvv')" class="card__field-label">
-                        {{ cardInfo.codeName || "CVV" }}
+                        {{ cardInfo.codeName || cvv_label }}
                     </label>
 
                     <input
@@ -200,7 +200,7 @@
                         :is-show="$v.cvv.$error"
                         position="right"
                     >
-                        Invalid data
+                        {{ cvv_invalid }}
                     </VueBankCardTooltip>
 
                     <VueBankCardTooltip
@@ -238,6 +238,36 @@ export default {
     },
     directives: { mask, clickOutside },
     mixins: [commonMixin, validationMixin, validatorsMixin, helpersMixin],
+    props: {
+        card_number_label: {
+            type: String,
+            default: "Card number",
+        },
+        expiration_label: {
+            type: String,
+            default: "MM/YY",
+        },
+        cvv_label:{
+            type: String,
+            default: "CVV",
+        },
+        card_number_placeholder: {
+            type: String,
+            default: "Enter Card Number",
+        },
+        number_required: {
+            type: String,
+            default: "You need to fill this field",
+        },
+        expiration_invalid: {
+            type: String,
+            default: "Date invalid",
+        },
+        cvv_invalid: {
+            type: String,
+            default: "Invalid data",
+        },
+    },
     data() {
         return {
             cardFocused: false,
@@ -247,7 +277,7 @@ export default {
                 { ref: "cardNumber", collapsible: true },
                 { ref: "expDateMonth" },
                 { ref: "expDateYear" },
-                { ref: "cvv" }
+                { ref: "cvv" },
             ]
         };
     },
@@ -265,9 +295,9 @@ export default {
          */
         textPlaceholderInput() {
             if (!this.cardFocused && this.isFieldEmpty("cardNumber")) {
-                return "Enter Card Number";
+                return this.card_number_placeholder;
             }
-            return "Card number";
+            return this.card_number_label;
         },
         /**
          * Generate path for icon in avatar field
