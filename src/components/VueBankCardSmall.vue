@@ -391,6 +391,7 @@ export default {
          * Handle blur on card element
          */
         onBlurCard() {
+            this.$emit("getCardInfo");
             this.cardFocused = false;
             if (this.isFieldFull("cardNumber")) this.cardNumberCollapsed = true;
         },
