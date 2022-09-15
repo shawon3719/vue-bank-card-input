@@ -449,7 +449,9 @@ $disabled-color: #e5e9ed;
     height: 45px;
     border: 1px solid rgba(0, 0, 0, 0.42);
     border-radius: 5px;
-    background-color: #fafafa;
+    background-color: transparent;
+    transition: background-color .3s,border-color .3s,box-shadow .3s;
+    border: 1px solid $secondary-color;
     transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
 
     &--focused {
